@@ -1,11 +1,11 @@
-# Idenditify-Suspicious-Browser-Extension
 # 🔍 Identify & Remove Suspicious Browser Extensions
+
 **Project**: Browser Extension Audit & Removal  
 **Goal**: Help users and admins identify, document and safely remove suspicious or unnecessary browser extensions (Chrome / Chromium, Firefox).
 
 ---
 
-## 🚀 Overview (सार)
+## 🚀 Overview 
 Browser extensions increase browser功能 but also expand attack surface. This repository provides:
 - A clear audit workflow
 - Permission & risk checklist
@@ -25,11 +25,7 @@ Browser extensions increase browser功能 but also expand attack surface. This r
 - [Scripts (list / backup / remove) — Examples](#-scripts-list--backup--remove---examples)
 - [Documentation / Deliverables](#-documentation--deliverables)
 - [Incident report template](#-incident-report-template)
-- [Interview Q&A (common questions + answers)](#-interview-qa-common-questions--answers)
 - [Security best practices](#-security-best-practices)
-- [Resources & references](#-resources--references)
-- [License](#-license)
-
 ---
 
 ## 🕒 When to run this audit
